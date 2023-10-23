@@ -11,4 +11,4 @@ url: https://rosmontis.moe/
 wikipedia_url: https://prts.wiki/w/%E8%BF%B7%E8%BF%AD%E9%A6%99
 ---
 # Rosmontis is a cute and lovely girl!
-迷迭香(Rosmontis)是游戏明日方舟的一名角色，此话题为关于游戏明日方舟及其角色迷迭香的内容
+迷迭香(Rosmontis)是游戏明日方舟的一名角色，此话题为关于游戏明日方舟及其角色迷迭香的内容，包含名称与Rosmontis有关的软件等。
