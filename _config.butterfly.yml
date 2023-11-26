@@ -33,8 +33,8 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fab fa-github: https://github.com/RosmontisMoe || Github || '#24292e'
+  fas fa-envelope: mailto:ursusfeline@rosmontis.moe || Email || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
@@ -349,8 +349,8 @@ mathjax:
 
 # KaTeX
 katex:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   hide_scrollbar: true
 
 # search (搜索)
@@ -731,8 +731,8 @@ beautify:
 font:
   global-font-size:
   code-font-size:
-  font-family:
-  code-font-family:
+  font-family: "Noto Sans SC"
+  code-font-family: "Monaspace Krypton"
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
