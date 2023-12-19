@@ -41,7 +41,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
       - run: npm install
-      - run: npx yarn
+      - run: npx yarn version stable
       - run: npx yarn build
       - run: mv public _site
       - name: Upload artifact
